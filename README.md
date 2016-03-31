@@ -6,3 +6,5 @@ Unfortunatly they will not drive properly with the standard Arduino stepper moto
 I looked at a number of solutions, but as all I wanted to do was to drive the servo motor to a fixed position
 I have used the library included here. Download the library and rename  to StepperMotor
 save to your library folder.
+
+This library allows the number of steps, the direction of rotation and speed to be set.
