@@ -7,4 +7,4 @@ I looked at a number of solutions, but as all I wanted to do was to drive the se
 I have used the library included here. Download the library and rename  to StepperMotor
 save to your library folder.
 
-This library allows the number of steps, the direction of rotation and speed to be set.
+This library allows the number of steps, the direction of rotation and speed to be set.For more information see my blog at https://rydepier.wordpress.com/2016/03/31/uln2003-stepper-motor-driver-with-28byj-48-motor/
